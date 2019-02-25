@@ -1,0 +1,12 @@
+[submodule "Parser-and-Scanner"]
+	path = Parser-and-Scanner
+	url = https://github.com/meetparekh09/Parser-and-Scanner.git
+[submodule "Playing-with-Scheme"]
+	path = Playing-with-Scheme
+	url = https://github.com/meetparekh09/Playing-with-Scheme.git
+[submodule "Playing-with-ML"]
+	path = Playing-with-ML
+	url = https://github.com/meetparekh09/Playing-with-ML.git
+[submodule "Playing-with-Prolog"]
+	path = Playing-with-Prolog
+	url = https://github.com/meetparekh09/Playing-with-Prolog.git
